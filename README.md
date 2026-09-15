@@ -10,14 +10,6 @@
 <img src="https://img.shields.io/github/languages/top/LTherage/7-familles?style=for-the-badge&color=1F75FE" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/LTherage/7-familles?style=for-the-badge&color=1F75FE" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
-
-- Java
-- Swing / AWT
-- IntelliJ IDEA
-
-</div>
-
 ---
 
 ## 📖 Table of Contents
