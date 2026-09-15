@@ -3,31 +3,6 @@
 <!-- HEADER STYLE: BANNER -->
 <div align="center">
 
-	<defs>
-		<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-			<stop offset="0%" style="stop-color:#2de537;stop-opacity:1" />
-			<stop offset="50%" style="stop-color:#2de5a5;stop-opacity:1" />
-			<stop offset="100%" style="stop-color:#2db7e5;stop-opacity:1" />
-		</linearGradient>
-		<filter id="shadow">
-			<feDropShadow dx="2.0" dy="2.0" stdDeviation="4.0" flood-opacity="0.5" />
-		</filter>
-		<pattern id="dots" width="20.0" height="20.0" patternUnits="userSpaceOnUse">
-			<circle cx="3" cy="3" r="1.5" fill="rgba(255,255,255,0.2)" />
-		</pattern>
-	</defs>
-	<rect width="100%" height="100%" fill="url(#bg)" rx="5.0" />
-	<rect width="100%" height="100%" fill="url(#dots)" />
-	<circle cx="64.0" cy="50.0" r="30.0" fill="rgba(255,255,255,0.8)" />
-	<circle cx="736.0" cy="150.0" r="40.0" fill="rgba(255,255,255,0.8)" />
-	<path d="M 400.0 25.0
-			 L 450.0 75.0
-			 L 350.0 75.0 Z" fill="rgba(255,255,255,0.8)" />
-	<text x="400.0" y="100.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)">
-		7-familles
-	</text>
-	<text x="400.0" y="150.0" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="rgba(255,255,255,0.9)">
-</text></svg>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/LTherage/7-familles?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=1F75FE" alt="license">
